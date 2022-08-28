@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Development 
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Development Open Source Projects
-- 📫 How to reach me https://www.instagram.com/watchdeathnote
+- 📫 How to reach me https://www.instagram.com/applesaucepennguin
 
 <!---
 Shahbazzz4462/Shahbazzz4462 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
